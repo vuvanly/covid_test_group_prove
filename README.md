@@ -142,53 +142,101 @@ php.exe covid_group_test.php
 Traditional Test time: 72275
 
 New Test time with n=2: 36376
+
 New Test time with n=3: 24449
+
 New Test time with n=4: 18545
+
 New Test time with n=5: 15050
+
 New Test time with n=6: 12759
+
 New Test time with n=7: 11156
+
 New Test time with n=8: 9983
+
 New Test time with n=9: 9098
+
 New Test time with n=10: 8413
+
 New Test time with n=11: 7872
+
 New Test time with n=12: 7442
+
 New Test time with n=13: 7096
+
 New Test time with n=14: 6816
+
 New Test time with n=15: 6588
+
 New Test time with n=16: 6404
+
 New Test time with n=17: 6254
+
 New Test time with n=18: 6134
+
 New Test time with n=19: 6039
+
 New Test time with n=20: 5965
+
 New Test time with n=21: 5908
+
 New Test time with n=22: 5867
+
 New Test time with n=23: 5839
+
 New Test time with n=24: 5823
+
 New Test time with n=25: 5817
+
 New Test time with n=26: 5821
+
 New Test time with n=27: 5832
+
 New Test time with n=28: 5851
+
 New Test time with n=29: 5876
+
 New Test time with n=30: 5907
+
 New Test time with n=31: 5942
+
 New Test time with n=32: 5984
+
 New Test time with n=33: 6028
+
 New Test time with n=34: 6077
+
 New Test time with n=35: 6129
+
 New Test time with n=36: 6185
+
 New Test time with n=37: 6242
+
 New Test time with n=38: 6304
+
 New Test time with n=39: 6367
+
 New Test time with n=40: 6433
+
 New Test time with n=41: 6501
+
 New Test time with n=42: 6570
+
 New Test time with n=43: 6642
+
 New Test time with n=44: 6715
+
 New Test time with n=45: 6789
+
 New Test time with n=46: 6865
+
 New Test time with n=47: 6943
+
 New Test time with n=48: 7021
+
 New Test time with n=49: 7101
+
 New Test time with n=50: 7182
 
 New Test Method is better with 25 people in 1 group. 
